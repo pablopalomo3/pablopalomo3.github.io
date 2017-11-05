@@ -5,14 +5,15 @@ url: "0.0.0.0" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Joey Kirk
+  title: Pablo Palomo III
   avatar: avatar.png
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Designer, Developer, Writer, and Dad.</h1>
+     <h1>Hello</h1>
+     <p>My name is Pablo Palomo III, a multidisciplinary artist & Web Developer based in Dallas<p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
@@ -20,22 +21,22 @@ theme_settings:
   # Icons
   rss: false
   email_address: # Full email address, e.g. "sam@example.com"
-  behance:
+  behance: "pablopalomo3"
   bitbucket:
-  dribbble: "joeykirk"
-  facebook: "joeykirk"
+  dribbble: "pablopalomoIII"
+  facebook:
   flickr:
-  github: "madebymunsters/type-theme"
+  github: "pablopalomo3"
   google_plus:
-  instagram: "joeykirk"
-  linkedin:  # Full URL
+  instagram: "pablopalomo3"
+  linkedin:  "https://www.linkedin.com/in/pablo-palomo-iii-6085aa98/"
   pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "joeykirk"
+  twitter: "pablopalomoIII"
   wordpress:
   youtube:
 
